@@ -1,0 +1,10 @@
+READER  = RENK      > ARDUNIO UNO
+------------------------------------
+SOA     = SARI      > 10
+SCK     = MOR       > 13
+MOSI    = BEYAZ     > 11
+MISO    = MAVİ      > 12
+IRQ     = YEŞİL     > KULLANILMADI
+GND     = TURUNCU   > GND
+RST     = KAHVERENGI> 9
+3.3V    = KIRMIZI   > 3.3V
